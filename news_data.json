@@ -1,0 +1,38 @@
+{
+  "news": [
+    {
+      "id": "row1_column1",
+      "thumbnailUrl": "",
+      "title": "5月の新作パン",
+      "subtitle": "",
+      "link": "https://note.com/endores_sfc/n/nf5e4cf0f09ec",
+      "destination": null,
+      "row": 1,
+      "column": 1,
+      "placeholderColor": "#FFFFFF"
+    },
+    {
+      "id": "row1_column2",
+      "thumbnailUrl": "",
+      "title": "endoresとは",
+      "subtitle": "",
+      "link": "",
+      "destination": null,
+      "row": 1,
+      "column": 2,
+      "placeholderColor": "#FFFFFF"
+    },
+    {
+      "id": "row2_column1",
+      "thumbnailUrl": "",
+      "title": "SFCCLIP 特集",
+      "subtitle": "",
+      "link": "https://sfcclip.net/2023/04/58149/",
+      "destination": null,
+      "row": 2,
+      "column": 1,
+      "placeholderColor": "#FFFFFF"
+    }
+  ]
+}
+
