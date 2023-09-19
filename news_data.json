@@ -2,7 +2,7 @@
   "news": [
     {
       "id": "row1_column1",
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://sugijotaro.github.io/endores_news_data/images/20230919_may_new_bread_thumbnail.jpg",
       "title": "5月の新作パン",
       "subtitle": "",
       "link": "https://note.com/endores_sfc/n/nf5e4cf0f09ec",
@@ -13,7 +13,7 @@
     },
     {
       "id": "row1_column2",
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://sugijotaro.github.io/endores_news_data/images/20230919_about_endores_thumbnail.jpg",
       "title": "endoresとは",
       "subtitle": "",
       "link": "",
@@ -24,7 +24,7 @@
     },
     {
       "id": "row2_column1",
-      "thumbnailUrl": "",
+      "thumbnailUrl": "https://sugijotaro.github.io/endores_news_data/images/20230919_ sfcclip_feature_thumbnail.jpg",
       "title": "SFCCLIP 特集",
       "subtitle": "",
       "link": "https://sfcclip.net/2023/04/58149/",
